@@ -1,0 +1,19 @@
+body{
+    background: rgb(141, 39, 39);
+    margin: auto;
+    max-width: 800px;
+}
+
+.post{
+    font-style: italic;
+    color: orange;
+    text-align: center;
+    
+}
+.title{
+    color: orchid;
+    text-align: center;
+}
+.image{
+    border-radius: 15%;
+}
